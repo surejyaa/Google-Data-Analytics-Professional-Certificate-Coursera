@@ -2,7 +2,7 @@
 * @Author: Surejya Suresh
 -->
 
-### Week 1 Practice Quiz 1 : Test your knowledge on the data ecosystem
+### Week 1 Practice Quiz : Test your knowledge on the data ecosystem
 Grade received 100%
 
 &nbsp;
