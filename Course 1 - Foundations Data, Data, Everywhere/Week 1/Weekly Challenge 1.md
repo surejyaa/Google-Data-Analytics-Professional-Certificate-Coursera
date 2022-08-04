@@ -2,7 +2,7 @@
 * @Author: Surejya Suresh
 -->
 
-### Week 1 Practice Quiz 2 : Test your knowledge on proper use of the discussion forum
+### Weekly Challenge 1
 Grade received 100%
 
 &nbsp;
