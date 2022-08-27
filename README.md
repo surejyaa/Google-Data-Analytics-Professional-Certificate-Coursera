@@ -7,7 +7,7 @@
 [Google Data Analytics Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 #### Courses
-- [ ] Foundations: Data, Data, Everywhere
+- [x] Foundations: Data, Data, Everywhere
 - [ ] Ask Questions to Make Data-Driven Decisions
 - [ ] Process Data from Dirty to Clean
 - [ ] Google Data Analytics Capstone: Complete a Case Study
